@@ -1,2 +1,3 @@
 my test file
 test again
+Fix issue 6
