@@ -1,3 +1,4 @@
 my test file
 test again
 Fix issue 6
+Fix issue 7
